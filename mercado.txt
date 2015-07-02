@@ -8,3 +8,4 @@ gilete
 cotonete
 escova de dentes
 pente de cabelo
+outro item
